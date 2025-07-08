@@ -52,7 +52,7 @@ Java-based test automation course project featuring core OOP principles, CI setu
 
 ---
 
-## 📊 GitHub Stats (optional)
+## 📊 GitHub Stats
 
 ![Andrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndriiPrysiazhnyi&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiPrysiazhnyi&layout=compact&theme=github_dark)
@@ -61,8 +61,8 @@ Java-based test automation course project featuring core OOP principles, CI setu
 
 ## ✉️ Contact
 
-- 📧 [YourEmail@example.com]
-- 🌐 [LinkedIn Profile](https://linkedin.com/in/your-link) *(update if available)*
+- 📧 [qa.andrii.prysiazhnyi@gmail.com]
+- 🌐 [LinkedIn Profile]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/andrii-prysiazhnyi/)) *(update if available)*
 - 🛡️ Clearance: **Active SECRET**
 
 ---
