@@ -9,7 +9,7 @@
 ## 🛠️ Technical Skills
 
 **Languages:**  
-Java • JavaScript • SQL
+Java • JavaScript • SQL • Kotlin • React
 
 **Frameworks & Tools:**  
 Selenium WebDriver • Cucumber • JUnit • TestNG • REST Assured • Postman • JMeter • Jenkins • Git • Maven • JDBC
