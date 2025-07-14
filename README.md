@@ -26,7 +26,7 @@ Android Studio • IntelliJ • Kafka • Jira • Bitbucket • RapidSQL • AL
 
 ### 🔹 `basejava-course-homevork`
 Java-based test automation course project featuring core OOP principles, CI setup, and modular architecture.  
-**Tech:** Java • Maven • IntelliJ • GitHub
+**Tech:** Java • Maven • IntelliJ • GitHub • JUnit
 
 👉 [View the Repository](https://github.com/AndriiPrysiazhnyi/basejava-course-homevork)
 
