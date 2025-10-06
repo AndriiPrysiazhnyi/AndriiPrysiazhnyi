@@ -25,10 +25,10 @@ Android Studio • IntelliJ • Kafka • Jira • Bitbucket • RapidSQL • AL
 ## 📂 Featured Projects
 
 ### 🔹 `basejava-course-homevork`
-Java-based test automation course project featuring core OOP principles, CI setup, and modular architecture.  
-**Tech:** Java • Maven • IntelliJ • GitHub
+JavaScript and React based web application.  
+**Tech:** JavaScript • React • VSCode • GitHub
 
-👉 [View the Repository](https://github.com/AndriiPrysiazhnyi/basejava-course-homevork)
+👉 [View the Repository](https://github.com/AndriiPrysiazhnyi/my-portfolio)
 
 ---
 
