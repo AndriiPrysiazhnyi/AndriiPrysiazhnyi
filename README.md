@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrii Prysiazhnyi
 
-🇺🇸 **Senior Software Automation Engineer | U.S. Citizen | Active Secret Clearance**
+**Senior Software Automation Engineer | U.S. Citizen | Active Secret Clearance**
 
 8+ years of experience delivering scalable, high-quality automation solutions in Agile environments. Proven success leading QA teams, building test automation frameworks, and supporting mission-critical systems in both the private sector and U.S. Air Force. Passionate about quality engineering, DevOps integration, and mentoring future engineers.
 
@@ -50,6 +50,17 @@ JavaScript and React based web application.
 - Automated 120+ microservice-level tests, improving defect detection  
 - Participated in Agile planning and cross-team QA collaboration
 
+### 🏦 MasterCard — *SDET (2018–2020)*  
+-	Developed and maintained a scalable test framework that automated 80% of critical test paths.
+-	Migrated existing manual test cases to automation, saving 15+ hours of regression effort per sprint.
+-	Re-architected the framework using Page Object Model, reducing test maintenance effort by 35%.
+
+
+### 🏦 OnDeck — *QA Automation Engineer  (2016 –2018)*  
+- Built automated smoke and regression suites for loan processing application, improving release quality by 30%.
+- Developed 100+ Selenium WebDriver scripts using TestNG for functional and cross-browser testing.
+
+
 ---
 
 ## 📊 GitHub Stats
@@ -61,8 +72,9 @@ JavaScript and React based web application.
 
 ## ✉️ Contact
 
-- 📧 qa.andrii.prysiazhnyi@gmail.com
+- 📧 [Email](qa.andrii.prysiazhnyi@gmail.com)
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/andrii-prysiazhnyi)
+- 🌐 [My Website](https://andriiprysiazhnyi.github.io/my-portfolio/)
 - 🛡️ Clearance: **Active SECRET**
 
 ---
