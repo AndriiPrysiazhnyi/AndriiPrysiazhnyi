@@ -61,8 +61,8 @@ Java-based test automation course project featuring core OOP principles, CI setu
 
 ## ✉️ Contact
 
-- 📧 [qa.andrii.prysiazhnyi@gmail.com]
-- 🌐 [LinkedIn Profile][https://linkedin.com/in/your-link](https://www.linkedin.com/in/andrii-prysiazhnyi/)]
+- 📧 qa.andrii.prysiazhnyi@gmail.com
+- 🌐 LinkedIn Profile https://www.linkedin.com/in/andrii-prysiazhnyi/
 - 🛡️ Clearance: **Active SECRET**
 
 ---
