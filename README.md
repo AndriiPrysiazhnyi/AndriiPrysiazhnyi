@@ -24,7 +24,7 @@ Android Studio • IntelliJ • Kafka • Jira • Bitbucket • RapidSQL • AL
 
 ## 📂 Featured Projects
 
-### 🔹 `basejava-course-homevork`
+### 🔹 `my-portfolio`
 JavaScript and React based web application.  
 **Tech:** JavaScript • React • VSCode • GitHub
 
