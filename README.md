@@ -62,7 +62,7 @@ JavaScript and React based web application.
 ## ✉️ Contact
 
 - 📧 qa.andrii.prysiazhnyi@gmail.com
-- 🌐 LinkedIn Profile https://www.linkedin.com/in/andrii-prysiazhnyi/
+- 🌐 [LinkedIn Profile] (https://www.linkedin.com/in/andrii-prysiazhnyi)
 - 🛡️ Clearance: **Active SECRET**
 
 ---
